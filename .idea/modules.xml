@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MangaApp.iml" filepath="$PROJECT_DIR$/.idea/modules/MangaApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MangaApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MangaApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MangaApp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MangaApp.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MangaApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MangaApp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MangaApp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MangaApp.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
